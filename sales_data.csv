@@ -1,0 +1,13 @@
+Order_ID,Order_Date,Customer,Product,Category,Quantity,Unit_Price,Region
+1001,2026-01-05,Ayse,Laptop,Electronics,2,25000,Marmara
+1002,2026-01-06,Mehmet,Mouse,Accessories,5,450,Ege
+1003,2026-01-08,Zeynep,Phone,Electronics,1,18000,Akdeniz
+1004,2026-01-10,Ali,Keyboard,Accessories,3,1200,Marmara
+1005,2026-01-12,Elif,Monitor,Electronics,2,7500,İç Anadolu
+1006,2026-01-15,Can,Mouse,Accessories,4,450,Ege
+1007,2026-02-02,Ayse,Phone,Electronics,2,18000,Marmara
+1008,2026-02-05,Mehmet,Laptop,Electronics,1,25000,Ege
+1009,2026-02-10,Zeynep,Keyboard,Accessories,2,1200,Akdeniz
+1010,2026-02-12,Ali,Monitor,Electronics,3,7500,Marmara
+1011,2026-02-15,Elif,Mouse,Accessories,6,450,İç Anadolu
+1012,2026-02-20,Can,Laptop,Electronics,1,25000,Ege
