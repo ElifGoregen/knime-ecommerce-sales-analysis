@@ -40,6 +40,14 @@ The analysis includes the following steps:
 - Akdeniz: 20,400
 - Central Anatolia: 17,700
 
+  ## Visualizations
+
+### Sales by Region
+![Sales by Region](bolgesel-satis.png)
+
+### Sales by Product
+![Sales by Product](urun-satis.png)
+
 ## Dataset
 The project uses a sample e-commerce sales dataset created for learning and analysis purposes.
 
